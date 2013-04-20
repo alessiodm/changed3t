@@ -11,3 +11,6 @@
 *.lai
 *.la
 *.a
+
+# Mac garbage
+.DS_Store
